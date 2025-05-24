@@ -1,0 +1,6 @@
+@TemplateFastApi_HostAddress = http://localhost:5214
+
+GET {{TemplateFastApi_HostAddress}}/api/v1/templates/1
+Accept: application/json
+
+###
